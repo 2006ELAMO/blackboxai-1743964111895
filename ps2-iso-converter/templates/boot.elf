@@ -1,0 +1,9 @@
+# Placeholder for PS2 boot executable
+# Replace this file with a valid boot.elf from:
+# 1. PS2 SDK
+# 2. Compatible homebrew executable
+# 3. Existing PS2 game ISO
+
+# WARNING: This placeholder will NOT work
+# You must obtain a valid boot.elf file
+# for the converted ISO to be bootable
