@@ -1,0 +1,3 @@
+[SYSTEM]
+Boot = boot.elf;1
+MaxMemory = 32
